@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Default locale = French. English lives in values-en/. -->
+<resources>
+    <string name="app_name">Cutz</string>
+
+    <!-- Navigation -->
+    <string name="tab_create">Créer</string>
+    <string name="tab_list">Mes raccourcis</string>
+    <string name="about_title">À propos et licences</string>
+    <string name="back">Retour</string>
+    <string name="more">Plus d\'options</string>
+    <string name="menu_export">Exporter (JSON)</string>
+    <string name="menu_import">Importer (JSON)</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="clear">Effacer</string>
+
+    <!-- Create -->
+    <string name="preview_placeholder">Nom du raccourci</string>
+    <string name="editing_banner">Modification d\'un raccourci existant</string>
+    <string name="section_target">Cible</string>
+    <string name="type_app">Application</string>
+    <string name="type_url">Lien web</string>
+    <string name="app_choose">Choisir une application</string>
+    <string name="app_search">Rechercher une application</string>
+    <string name="url_label">Adresse (URL)</string>
+    <string name="url_invalid">Adresse invalide : utilisez http:// ou https:// suivi d\'un nom de domaine.</string>
+    <string name="name_label">Nom du raccourci</string>
+    <string name="section_icon">Icône</string>
+    <string name="icon_bank">Banque d\'icônes</string>
+    <string name="icon_gallery">Galerie</string>
+    <string name="icon_app">Icône de l\'app</string>
+    <string name="icon_search_hint">Rechercher (nom, mot-clé)</string>
+    <string name="icon_recent">Récents</string>
+    <string name="icon_all">Toutes les icônes</string>
+    <string name="icon_count">%1$d icônes</string>
+    <string name="section_style">Personnalisation</string>
+    <string name="shape_label">Forme</string>
+    <string name="shape_system">Système</string>
+    <string name="shape_circle">Rond</string>
+    <string name="shape_rounded">Carré arrondi</string>
+    <string name="shape_squircle">Squircle</string>
+    <string name="shape_square">Carré</string>
+    <string name="shape_system_hint">Fond plein : c\'est le launcher qui découpe la forme (cercle sur un Pixel). Les autres formes sont dessinées par Cutz dans la zone de sécurité et ne sont jamais rognées.</string>
+    <string name="background_color">Couleur de fond</string>
+    <string name="glyph_color">Couleur du glyphe</string>
+    <string name="glyph_scale">Taille du glyphe : %1$d %%</string>
+    <string name="glyph_margin">Marge : %1$d %%</string>
+    <string name="color_custom">Couleur personnalisée</string>
+    <string name="color_hue">Teinte</string>
+    <string name="color_saturation">Saturation</string>
+    <string name="color_brightness">Luminosité</string>
+    <string name="color_hex">Code hexadécimal</string>
+    <string name="add_to_home">Ajouter à l\'écran d\'accueil</string>
+    <string name="save_changes">Enregistrer</string>
+    <string name="crop_title">Recadrer l\'image</string>
+    <string name="crop_confirm">Valider</string>
+    <string name="crop_error">Impossible de lire cette image.</string>
+    <string name="pin_unsupported_title">Épinglage non pris en charge</string>
+    <string name="pin_unsupported_body">Votre launcher (écran d\'accueil) ne permet pas aux applications d\'ajouter des raccourcis épinglés, ou cette fonction est désactivée. Essayez un launcher compatible (par exemple le launcher par défaut de GrapheneOS, Lawnchair ou Kvaesitso), puis réessayez.</string>
+    <string name="copy_suffix">" (copie)"</string>
+
+    <!-- Categories -->
+    <string name="cat_all">Toutes</string>
+    <string name="cat_social">Réseaux sociaux</string>
+    <string name="cat_media">Médias &amp; Streaming</string>
+    <string name="cat_communication">Communication</string>
+    <string name="cat_productivity">Productivité</string>
+    <string name="cat_development">Développement</string>
+    <string name="cat_security">Sécurité &amp; Vie privée</string>
+    <string name="cat_cloud">Cloud &amp; Stockage</string>
+    <string name="cat_games">Jeux</string>
+    <string name="cat_shopping">Shopping</string>
+    <string name="cat_finance">Finance</string>
+    <string name="cat_travel">Transport &amp; Voyage</string>
+    <string name="cat_home">Maison &amp; Domotique</string>
+    <string name="cat_system">Système &amp; Outils</string>
+    <string name="cat_files">Fichiers &amp; Documents</string>
+    <string name="cat_nature">Nature &amp; Météo</string>
+    <string name="cat_health">Santé &amp; Sport</string>
+    <string name="cat_ui">Flèches &amp; Interface</string>
+    <string name="cat_other">Autres</string>
+
+    <!-- List -->
+    <string name="list_empty">Aucun raccourci pour l\'instant.\nCréez-en un depuis l\'onglet « Créer ».</string>
+    <string name="section_active">Actifs</string>
+    <string name="section_not_pinned">Absents de l\'écran d\'accueil</string>
+    <string name="section_app_missing">Application désinstallée</string>
+    <string name="section_to_remove">À retirer manuellement de l\'accueil</string>
+    <string name="to_remove_instructions">Android ne permet pas à une application de retirer une icône de l\'écran d\'accueil. Ces raccourcis sont désactivés (icône grisée). Faites un appui long sur l\'icône, puis « Retirer », et revenez ici pour les supprimer définitivement.</string>
+    <string name="status_active">Actif</string>
+    <string name="status_not_pinned">Désactivé · non épinglé</string>
+    <string name="status_app_missing">Désactivé · app absente</string>
+    <string name="status_to_remove">Désactivé · encore sur l\'accueil</string>
+    <string name="status_removed">Retiré de l\'accueil ✓</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_duplicate">Dupliquer</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_pin">Épingler sur l\'accueil</string>
+    <string name="action_restore">Restaurer</string>
+    <string name="action_confirm_removed">J\'ai retiré l\'icône</string>
+    <string name="action_purge">Supprimer définitivement</string>
+    <string name="confirm_delete_title">Supprimer « %1$s » ?</string>
+    <string name="confirm_delete_body">Le raccourci sera désactivé : son icône restera grisée sur l\'écran d\'accueil jusqu\'à ce que vous la retiriez à la main (appui long puis « Retirer »).</string>
+    <string name="confirm_purge_title">Supprimer définitivement ?</string>
+    <string name="confirm_purge_body">« %1$s » sera retiré de la liste. Confirmez que l\'icône n\'est plus sur votre écran d\'accueil.</string>
+
+    <!-- Shortcut manager messages (shown by the launcher on disabled icons) -->
+    <string name="disabled_deleted">Raccourci supprimé</string>
+    <string name="disabled_app_uninstalled">Application désinstallée</string>
+
+    <!-- Trampoline -->
+    <string name="launch_not_found">Ce raccourci n\'existe plus dans Cutz.</string>
+    <string name="launch_disabled">Ce raccourci est désactivé.</string>
+    <string name="launch_app_missing">L\'application ciblée n\'est pas installée.</string>
+    <string name="launch_no_handler">Aucune application ne peut ouvrir ce lien.</string>
+
+    <!-- Snackbars -->
+    <string name="msg_pin_requested">Demande envoyée au launcher : confirmez l\'ajout.</string>
+    <string name="msg_saved">Raccourci mis à jour.</string>
+    <string name="msg_saved_pending">Enregistré. L\'icône sera mise à jour sur l\'accueil dès que possible (limite Android atteinte).</string>
+    <string name="msg_error">Erreur : %1$s</string>
+    <string name="msg_disabled">« %1$s » désactivé : retirez-le de l\'accueil.</string>
+    <string name="msg_purged">« %1$s » supprimé.</string>
+    <string name="msg_exported">%1$d raccourcis exportés.</string>
+    <string name="msg_imported">%1$d raccourcis importés, %2$d ignorés (déjà présents ou invalides).</string>
+
+    <!-- About -->
+    <string name="about_version">Version %1$s</string>
+    <string name="about_offline">Fonctionne 100 % hors ligne : aucune permission Internet, aucune télémétrie, aucun service Google.</string>
+    <string name="about_icons">Bibliothèques d\'icônes</string>
+    <string name="about_pack_line">Licence %1$s · %2$d icônes</string>
+    <string name="about_show_license">Afficher la licence</string>
+    <string name="about_hide_license">Masquer la licence</string>
+    <string name="about_trademarks">Les logos de Simple Icons sont des marques de leurs propriétaires respectifs. Leur présence n\'implique aucune affiliation ni approbation.</string>
+    <string name="about_libraries">Bibliothèques logicielles</string>
+</resources>

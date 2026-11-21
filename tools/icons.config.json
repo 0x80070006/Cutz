@@ -1,0 +1,33 @@
+{
+  "_comment": "Pinned icon sources. Bump a version, run `python tools/import_icons.py --update-hashes`, review the diff of assets/icons/index.json, commit.",
+  "sources": [
+    {
+      "id": "simpleicons",
+      "name": "Simple Icons",
+      "version": "16.38.0",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/simple-icons/simple-icons",
+      "url": "https://registry.npmjs.org/simple-icons/-/simple-icons-16.38.0.tgz",
+      "sha256": "40f6282307c399d6feb87678e92ad4cbe469585539eb13d4bab6a430aabc01f4"
+    },
+    {
+      "id": "tabler",
+      "name": "Tabler Icons",
+      "version": "3.52.0",
+      "license": "MIT",
+      "repository": "https://github.com/tabler/tabler-icons",
+      "url": "https://registry.npmjs.org/@tabler/icons/-/icons-3.52.0.tgz",
+      "sha256": "626620c7d42afd2f294fba167ce4653b5cb946336d186b4991c70b700e5616af"
+    },
+    {
+      "id": "lucide",
+      "name": "Lucide",
+      "version": "1.77.0",
+      "license": "ISC",
+      "repository": "https://github.com/lucide-icons/lucide",
+      "_comment": "The git tag archive is used instead of lucide-static because only the repository ships per-icon category metadata (icons/<name>.json).",
+      "url": "https://codeload.github.com/lucide-icons/lucide/tar.gz/refs/tags/1.77.0",
+      "sha256": "23df6d76631bad704a0810372c894c53b2a701e60394ea23f8c5b11673fd8bc1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "simpleicons",
+    "name": "Simple Icons",
+    "version": "16.38.0",
+    "license": "CC0-1.0",
+    "repository": "https://github.com/simple-icons/simple-icons",
+    "count": 3472
+  },
+  {
+    "id": "tabler",
+    "name": "Tabler Icons",
+    "version": "3.52.0",
+    "license": "MIT",
+    "repository": "https://github.com/tabler/tabler-icons",
+    "count": 6545
+  },
+  {
+    "id": "lucide",
+    "name": "Lucide",
+    "version": "1.77.0",
+    "license": "ISC",
+    "repository": "https://github.com/lucide-icons/lucide",
+    "count": 2079
+  }
+]

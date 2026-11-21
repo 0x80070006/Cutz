@@ -1,0 +1,6 @@
+{
+  "_comment": "Per-icon category overrides: \"<source>/<name>\": \"<category>\". Use this to fix a misclassified icon without touching the generic rules.",
+  "tabler/brand-steam": "games",
+  "lucide/cloud-rain": "nature",
+  "tabler/cloud-rain": "nature"
+}

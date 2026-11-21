@@ -1,0 +1,25 @@
+{
+  "_comment": "Unified categories. Keys must match fr.cutz.data.icons.IconCategory. Order = display order of the chips.",
+  "categories": [
+    {"key": "social", "fr": "Réseaux sociaux", "en": "Social networks"},
+    {"key": "media", "fr": "Médias & Streaming", "en": "Media & Streaming"},
+    {"key": "communication", "fr": "Communication", "en": "Communication"},
+    {"key": "productivity", "fr": "Productivité", "en": "Productivity"},
+    {"key": "development", "fr": "Développement", "en": "Development"},
+    {"key": "security", "fr": "Sécurité & Vie privée", "en": "Security & Privacy"},
+    {"key": "cloud", "fr": "Cloud & Stockage", "en": "Cloud & Storage"},
+    {"key": "games", "fr": "Jeux", "en": "Games"},
+    {"key": "shopping", "fr": "Shopping", "en": "Shopping"},
+    {"key": "finance", "fr": "Finance", "en": "Finance"},
+    {"key": "travel", "fr": "Transport & Voyage", "en": "Transport & Travel"},
+    {"key": "home", "fr": "Maison & Domotique", "en": "Home & Smart home"},
+    {"key": "system", "fr": "Système & Outils", "en": "System & Tools"},
+    {"key": "files", "fr": "Fichiers & Documents", "en": "Files & Documents"},
+    {"key": "nature", "fr": "Nature & Météo", "en": "Nature & Weather"},
+    {"key": "health", "fr": "Santé & Sport", "en": "Health & Sport"},
+    {"key": "ui", "fr": "Flèches & Interface", "en": "Arrows & Interface"},
+    {"key": "other", "fr": "Autres", "en": "Other"}
+  ],
+  "_weak_comment": "When a source category maps to one of these generic buckets, name-keyword rules may refine it (e.g. Tabler 'lock' in System -> security).",
+  "weak": ["system", "ui", "productivity", "other"]
+}
