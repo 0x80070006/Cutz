@@ -123,4 +123,6 @@ Toute catégorie inconnue dans un fichier de mapping fait échouer le script (un
 
 ## Licence
 
-À définir par l'auteur (une licence libre, par exemple GPL-3.0 ou Apache-2.0, est nécessaire pour F-Droid). Les icônes restent sous la licence de leur pack ; les logos sont des marques de leurs propriétaires.
+Le code de Cutz est distribué sous **GNU General Public License v3.0** (voir [LICENSE](LICENSE)) : vous pouvez l'utiliser, le modifier et le redistribuer, à condition que toute version distribuée reste sous GPL-3.0 avec son code source.
+
+Les icônes embarquées restent sous la licence de leur pack (CC0-1.0, MIT, ISC, compatibles GPL-3.0) ; leurs textes de licence sont fournis dans `app/src/main/assets/licenses/` et affichés dans l'écran « À propos ». Les logos sont des marques de leurs propriétaires respectifs.

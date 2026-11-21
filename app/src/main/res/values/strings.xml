@@ -128,6 +128,7 @@
     <!-- About -->
     <string name="about_version">Version %1$s</string>
     <string name="about_offline">Fonctionne 100 % hors ligne : aucune permission Internet, aucune télémétrie, aucun service Google.</string>
+    <string name="about_license">Logiciel libre sous licence GNU GPL v3.0.</string>
     <string name="about_icons">Bibliothèques d\'icônes</string>
     <string name="about_pack_line">Licence %1$s · %2$d icônes</string>
     <string name="about_show_license">Afficher la licence</string>

@@ -50,6 +50,7 @@ fun AboutScreen(modifier: Modifier = Modifier) {
                 Text(stringResource(R.string.app_name), style = MaterialTheme.typography.headlineMedium)
                 Text(stringResource(R.string.about_version, BuildConfig.VERSION_NAME), style = MaterialTheme.typography.bodyMedium)
                 Text(stringResource(R.string.about_offline), style = MaterialTheme.typography.bodyMedium)
+                Text(stringResource(R.string.about_license), style = MaterialTheme.typography.bodyMedium)
             }
         }
         item { Text(stringResource(R.string.about_icons), style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.primary) }

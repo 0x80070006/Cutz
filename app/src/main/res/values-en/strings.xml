@@ -117,6 +117,7 @@
 
     <string name="about_version">Version %1$s</string>
     <string name="about_offline">Works 100% offline: no Internet permission, no telemetry, no Google services.</string>
+    <string name="about_license">Free software licensed under the GNU GPL v3.0.</string>
     <string name="about_icons">Icon libraries</string>
     <string name="about_pack_line">%1$s licence · %2$d icons</string>
     <string name="about_show_license">Show licence</string>
