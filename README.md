@@ -1,4 +1,6 @@
-# Cutz
+<p align="center"><img src="docs/logo.png" width="128" alt="Logo Cutz"></p>
+
+<h1 align="center">Cutz</h1>
 
 Créer, modifier et gérer des raccourcis personnalisés sur l'écran d'accueil Android.
 Pensé pour un **Google Pixel 9a sous GrapheneOS** (sans services Google), compatible **Android 8+** (minSdk 26, targetSdk 36).
