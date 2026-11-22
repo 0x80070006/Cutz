@@ -7,6 +7,18 @@ Pensé pour un **Google Pixel 9a sous GrapheneOS** (sans services Google), compa
 - Dépendances 100 % open source, résolues depuis `google()` et `mavenCentral()` uniquement : compatible F-Droid / Accrescent / GitHub Releases.
 - Material 3, couleurs dynamiques (Material You), thème clair/sombre, interface en français (anglais inclus dans `values-en/`).
 
+## Captures d'écran
+
+<p align="center">
+  <img src="docs/screenshots/01-create.png" width="19%" alt="Créer un raccourci">
+  <img src="docs/screenshots/02-icon-library.png" width="19%" alt="Banque d'icônes">
+  <img src="docs/screenshots/03-my-shortcuts.png" width="19%" alt="Mes raccourcis">
+  <img src="docs/screenshots/04-home.png" width="19%" alt="Raccourcis sur l'écran d'accueil">
+  <img src="docs/screenshots/05-about.png" width="19%" alt="À propos et licences">
+</p>
+
+Créer un raccourci · banque d'icônes (12 096 icônes, recherche et catégories) · liste des raccourcis · raccourcis épinglés sur l'accueil · À propos et licences. Captures réalisées sur un émulateur vierge avec des données de démonstration.
+
 ## Fonctionnalités
 
 | Onglet | Contenu |
